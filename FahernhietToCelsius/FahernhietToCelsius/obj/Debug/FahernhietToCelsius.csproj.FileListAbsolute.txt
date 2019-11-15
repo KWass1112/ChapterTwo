@@ -1,0 +1,7 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\FahernhietToCelsius\FahernhietToCelsius\bin\Debug\FahernhietToCelsius.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\FahernhietToCelsius\FahernhietToCelsius\bin\Debug\FahernhietToCelsius.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\FahernhietToCelsius\FahernhietToCelsius\bin\Debug\FahernhietToCelsius.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\FahernhietToCelsius\FahernhietToCelsius\obj\Debug\FahernhietToCelsius.csprojAssemblyReference.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\FahernhietToCelsius\FahernhietToCelsius\obj\Debug\FahernhietToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\FahernhietToCelsius\FahernhietToCelsius\obj\Debug\FahernhietToCelsius.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\FahernhietToCelsius\FahernhietToCelsius\obj\Debug\FahernhietToCelsius.pdb

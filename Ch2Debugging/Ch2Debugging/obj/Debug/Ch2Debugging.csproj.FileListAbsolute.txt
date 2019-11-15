@@ -1,0 +1,7 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\Ch2Debugging\Ch2Debugging\obj\Debug\Ch2Debugging.csprojAssemblyReference.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\Ch2Debugging\Ch2Debugging\obj\Debug\Ch2Debugging.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\Ch2Debugging\Ch2Debugging\bin\Debug\Ch2Debugging.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\Ch2Debugging\Ch2Debugging\bin\Debug\Ch2Debugging.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\Ch2Debugging\Ch2Debugging\bin\Debug\Ch2Debugging.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\Ch2Debugging\Ch2Debugging\obj\Debug\Ch2Debugging.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\Ch2Debugging\Ch2Debugging\obj\Debug\Ch2Debugging.pdb

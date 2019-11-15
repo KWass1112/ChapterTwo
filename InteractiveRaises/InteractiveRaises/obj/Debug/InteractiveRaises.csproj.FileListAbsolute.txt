@@ -1,0 +1,7 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\InteractiveRaises\InteractiveRaises\obj\Debug\InteractiveRaises.csprojAssemblyReference.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\InteractiveRaises\InteractiveRaises\obj\Debug\InteractiveRaises.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\InteractiveRaises\InteractiveRaises\bin\Debug\InteractiveRaises.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\InteractiveRaises\InteractiveRaises\bin\Debug\InteractiveRaises.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\InteractiveRaises\InteractiveRaises\bin\Debug\InteractiveRaises.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\InteractiveRaises\InteractiveRaises\obj\Debug\InteractiveRaises.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\InteractiveRaises\InteractiveRaises\obj\Debug\InteractiveRaises.pdb

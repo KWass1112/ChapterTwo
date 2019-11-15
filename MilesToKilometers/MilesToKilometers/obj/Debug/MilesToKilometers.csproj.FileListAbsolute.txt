@@ -1,0 +1,6 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\MilesToKilometers\MilesToKilometers\obj\Debug\MilesToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\MilesToKilometers\MilesToKilometers\bin\Debug\MilesToKilometers.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\MilesToKilometers\MilesToKilometers\bin\Debug\MilesToKilometers.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\MilesToKilometers\MilesToKilometers\bin\Debug\MilesToKilometers.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\MilesToKilometers\MilesToKilometers\obj\Debug\MilesToKilometers.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter2\MilesToKilometers\MilesToKilometers\obj\Debug\MilesToKilometers.pdb
